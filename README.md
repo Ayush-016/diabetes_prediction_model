@@ -1,6 +1,5 @@
 # Diabetes-Disease-Prediction-Model
 
-# Diabetes Prediction Model
 
 A machine learning project to predict the risk of diabetes using clinical features. The model is trained using a structured dataset and provides a simple interface to make predictions and evaluate performance.
 
